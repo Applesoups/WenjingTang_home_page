@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://applesoups.github.io/WenjingTang_home_page/sitemap.xml
+Sitemap: https://wenjingtang.net/sitemap.xml
