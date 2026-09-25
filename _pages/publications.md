@@ -11,18 +11,18 @@ nav_order: 2
 
 **[PO-PDDL: Learning Symbolic POMDPs from Visual Demonstrations for Robot Planning Under Uncertainty](https://arxiv.org/abs/2606.15654)**<br>
 **Wenjing Tang**, Xuanjin Jin, Yuan Liu, Renming Huang, Cewu Lu, Panpan Cai<br>
-_arXiv preprint_, 2026.<br>
+_Advances in Neural Information Processing Systems (NeurIPS)_, 2026.<br>
 [arXiv](https://arxiv.org/abs/2606.15654) / [Website](https://roboticsjtu.github.io/PO-PDDL/) / [Code](https://github.com/RoboticSJTU/PO_PDDL)
+
+**[I-Perceive: A Foundation Model for Active Perception with Language Instructions](https://arxiv.org/abs/2603.00600)**<br>
+Yongxi Huang, Zhuohang Wang, **Wenjing Tang**, Xinyu He, Cewu Lu, Panpan Cai<br>
+_Advances in Neural Information Processing Systems (NeurIPS)_, 2026.<br>
+[arXiv](https://arxiv.org/abs/2603.00600) / [Website](https://roboticsjtu.github.io/I-Perceive-Page/)
 
 **[Mimic Intent, Not Just Trajectories](https://arxiv.org/abs/2602.08602)**<br>
 Renming Huang, Chendong Zeng, **Wenjing Tang**, Jintian Cai, Cewu Lu, Panpan Cai<br>
 _Robotics: Science and Systems (RSS)_, 2026.<br>
 [arXiv](https://arxiv.org/abs/2602.08602) / [Website](https://renming-huang.github.io/MINT/) / [Code](https://github.com/RenMing-Huang/MINT)
-
-**[I-Perceive: A Foundation Model for Active Perception with Language Instructions](https://arxiv.org/abs/2603.00600)**<br>
-Yongxi Huang, Zhuohang Wang, **Wenjing Tang**, Xinyu He, Cewu Lu, Panpan Cai<br>
-_arXiv preprint_, 2026.<br>
-[arXiv](https://arxiv.org/abs/2603.00600) / [Website](https://roboticsjtu.github.io/I-Perceive-Page/)
 
 ## 2025
 
