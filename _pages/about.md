@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_20261008.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Shanghai, China</p>
@@ -29,7 +29,7 @@ latest_posts:
 
   <article>
     <div class="profile float-right">
-      {% include figure.liquid loading="eager" path="assets/img/prof_pic.jpg" class="img-fluid z-depth-1 rounded" sizes="(min-width: 930px) 270px, (min-width: 576px) 30vw, 95vw" alt="Wenjing Tang" cache_bust=true %}
+      {% include figure.liquid loading="eager" path="assets/img/prof_pic_20261008.jpg" class="img-fluid z-depth-1 rounded" sizes="(min-width: 930px) 270px, (min-width: 576px) 30vw, 95vw" alt="Wenjing Tang" cache_bust=true %}
       <div class="more-info">
         <p>Shanghai, China</p>
         <p>applesoup@sjtu.edu.cn</p>
